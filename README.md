@@ -10,6 +10,8 @@ Music, videos, written and visual content and rights.
 * Robez.io
 * Hexcross
 * 1000 Potions
+* Four Corner Card Combat
+* Hexcross XR
 * The MetaHobby Shop
 * All Qst0 Itch.io Games and concepts
   * Listed upon request
